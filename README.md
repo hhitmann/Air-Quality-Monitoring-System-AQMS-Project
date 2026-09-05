@@ -200,10 +200,10 @@ GPS information can be associated with sensor readings and used by the mobile ap
 ![Hardware prototype with labeled components](Documentation/Main_Circuit_AQMS.jpeg)
 
 ### ESP32 Integration with Sensors
-![ESP32 circuit schematic](Documentation/ESP32_Integration_Sensors_Modules_Dis.jpeg)
+![ESP32 circuit schematic](Documentation/ESP32_Integration_Sensors_Modules_Display.jpeg)
 
 ### Flutter Application UI (Light & Dark Mode)
-![Dashboard in light and dark mode](Images/AQMS_Aplication_Light_Dark.jpeg)
+![Dashboard in light and dark mode](Images/AQMS_Application_Light_Dark.jpeg)
 
 ### Environmental Sensors Dashboard
 ![Environmental sensor cards](Images/Environmental_Sensors.jpeg)
